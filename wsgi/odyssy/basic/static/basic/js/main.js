@@ -1,4 +1,7 @@
 $(document).ready(function() {
+   
+    $('loader').show();
+
     $('.carousel').slick({
         centerMode: true,
         autoplay: true,

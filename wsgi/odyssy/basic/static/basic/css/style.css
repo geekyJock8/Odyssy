@@ -837,3 +837,8 @@ a{
 .widgets-title a{
 	color: rgb(163,169,72);
 }
+
+
+#loader{
+	display: none;
+}
