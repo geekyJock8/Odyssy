@@ -1,3 +1,4 @@
+**Note: This repo is not being maintained, please visit the original repo [here](https://github.com/iiitv/Odyssy)**.
 # Odyssy - IIIT Vadodara Website
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/2ee2f1779b2f4cacaf8ff1d7b278e10c)](https://www.codacy.com/app/singhpratyush/Odyssy?utm_source=github.com&utm_medium=referral&utm_content=iiitv/Odyssy&utm_campaign=badger)
